@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Sid, a graduate student at ASU specializing in deep learning and excited to be a part of the GitHub community. I'm currently pursuing my master's degree in Computer Science with a focus on generative models. <br><br>I am currently learning React on the side. <br><br>Fun Fact: During my free time hiking and playing chess at the summit. 
+Hi there, I'm Sid, a graduate student at ASU specializing in deep learning and excited to be a part of the GitHub community. I'm currently pursuing my master's degree in Computer Science with a focus on generative models. <br><br>I am currently learning React on the side. <br><br>Fun Fact: During my free time I enjoy hiking and playing chess at the summit. 
 
 
 ## 🌐 Socials:
