@@ -3,8 +3,7 @@ Hi there, I'm Sid, a Computer Science Masters (Hons.) student at ASU specializin
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/pythonic1ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pythonic1ai/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/dem0nsl4yer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/efa2000" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pythonic1ai/) 
 
 # 💻 Tech Stack:
 ### Programming Languages:
