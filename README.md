@@ -20,6 +20,25 @@ Hi there, I'm Sid, a Computer Science Masters (Hons.) student at ASU specializin
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+
+## Key Projects
+
+- **Calorie counter** | Transfer Learning, InceptionV3, ImageNet, Python\
+  [GitHub](https://github.com/dem0nsl4yer/Calorie_counter)\
+  Developed a deep learning model using transfer learning with InceptionV3 architecture and pre-trained weights from the ImageNet dataset. Fine-tuned the model to classify 101 types of foods and accurately estimate their calorie content per gram. Employed data augmentation and advanced regularization techniques for improved generalization. Achieved exceptional results with 95% classification accuracy and precise calorie per gram intake estimation. Implemented an interactive web interface for a user-friendly experience.
+
+- **Robo Collision Detector** | PyTorch, Pygame, Feed-forward Neural Network\
+  [GitHub](https://github.com/dem0nsl4yer/robo_collision_detector)\
+  Trained a PyTorch-based neural network for a robot collision detector. Captured data from random agent movement to prepare the environment. Designed a feed-forward neural network with two hidden layers of 40x40 neurons, utilizing ReLU activation for the hidden layers and sigmoid for the output. Optimized the network using the Adam optimizer with a learning rate of 0.001 and a small batch size of 16 activities. Achieved accurate collision detection by analyzing TP, TN, FP, and FN using the confusion matrix.
+
+- **BetterFoods website** | Flask, Python, API Integration\
+  [GitHub](https://github.com/dem0nsl4yer/Better_Foods)\
+  Developed a user-friendly Flask website that utilizes APIs like YELP and Google Maps for seamless restaurant discovery based on ratings and proximity. Integrated the APIs to fetch real-time data, enabling accurate recommendations. Employed SQL databases for efficient data storage and retrieval. Implemented intricate backend logic and contributed to the GitHub repository for collaborative development.
+
+- **Beautiful Soup+ Selenium** | Python, Web Scraping, Data Parsing\
+  [GitHub](https://github.com/dem0nsl4yer/Scrapers)\
+  Developed a robust web scraping and data parsing solution using Beautiful Soup and Selenium libraries in Python. Leveraged these powerful tools to extract and parse data from prominent YouTube coding channels, enabling the ranking of the most popular/viewed channels and identification of the best resources for self-study programming. Implemented advanced techniques to handle dynamic web pages and navigate through complex HTML structures, ensuring accurate and comprehensive data retrieval.
+  
 ### Frameworks: 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
