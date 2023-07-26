@@ -23,6 +23,11 @@ Hi there, I'm Sid, a Computer Science Masters (Hons.) student at ASU specializin
 
 ## Key Projects
 
+- **Carbon Nanomaterial Phase Identification with Machine Vision** | Transfer Learning, Machine Vision, Scanning Electron Microscopy
+[GitHub](https://github.com/dem0nsl4yer/Carbon_Nanomaterial_Phase_Identification)
+
+This repository contains code and resources for the model presented in the paper "Leveraging Transfer Learning and Machine Vision for Enhanced Carbon Nanomaterial Phase Identification with Scanning Electron Microscopy." The model is designed to identify different carbon nanomaterial phases using transfer learning and convolutional neural networks (CNNs) based on scanning electron microscopy (SEM) images. Researchers and practitioners can utilize the model to perform phase identification of carbon nanomaterials from SEM images. The provided code demonstrates how to load the pre-trained model, preprocess SEM images, and obtain accurate predictions for different carbon phases.
+
 - **Calorie counter** | Transfer Learning, InceptionV3, ImageNet, Python\
   [GitHub](https://github.com/dem0nsl4yer/Calorie_counter)\
   Developed a deep learning model using transfer learning with InceptionV3 architecture and pre-trained weights from the ImageNet dataset. Fine-tuned the model to classify 101 types of foods and accurately estimate their calorie content per gram. Employed data augmentation and advanced regularization techniques for improved generalization. Achieved exceptional results with 95% classification accuracy and precise calorie per gram intake estimation. Implemented an interactive web interface for a user-friendly experience.
