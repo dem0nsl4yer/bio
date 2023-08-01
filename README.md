@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there, I'm Sid, a Computer Science Masters (Hons.) student at ASU specializing in deep learning and excited to be a part of the GitHub community. I'm currently pursuing my master's degree in Computer Science with a focus on generative models. <br><br>I am currently learning React on the side. <br><br>Fun Fact: During my free time I enjoy hiking and playing chess at the summit. 
+👋 Hello there! I'm Sid, a passionate Computer Science graduate student at Arizona State University (ASU) with a keen interest in the exciting realm of deep learning. As an avid learner and enthusiast, I am thrilled to be an active member of the GitHub community, where innovation and collaboration thrive.
+
+📚 I am wrapping up my Master of Science (MS) degree in Computer Science (Hons.) at ASU, specializing in deep learning and its diverse applications. My academic journey has allowed me to delve into the fascinating world of generative models, exploring how these cutting-edge techniques can revolutionize various industries.
+
+💡 Currently, I am further expanding my skill set by diving into React, eagerly exploring front-end technologies to create dynamic and user-friendly web applications.
+
+⏱️ When I'm not diving into code, you can find me hiking and enjoying the serenity of nature. Additionally, I'm an avid chess player, and I love challenging myself with strategic moves and thrilling chess matches, often playing at the summit during my hiking adventures.
 
 
 ## 🌐 Socials:
